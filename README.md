@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mahareeb Abbasi
+- 👀 I’m interested in Web Development and Mobile Application Development
+- 🌱 I'm an undergraduate student persuing degree in Information Technology
+- 📫 mahareebabbasi20@gmail.com
